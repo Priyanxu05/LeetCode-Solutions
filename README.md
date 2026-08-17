@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
