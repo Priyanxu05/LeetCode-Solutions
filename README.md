@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Greedy
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0705-design-hashset) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
