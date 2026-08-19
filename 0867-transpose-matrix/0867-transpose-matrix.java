@@ -4,10 +4,10 @@ class Solution {
         int n = matrix[0].length;
         int[][] arr=new int[n][m];
 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                arr[j][i]=matrix[i][j];
-            }
+        for(int i=0;i<m * n;i++){
+            int row=i/n;
+            int coln=i%n;
+            arr[coln][row]=matrix[row][coln];
         }
         return arr;
 
