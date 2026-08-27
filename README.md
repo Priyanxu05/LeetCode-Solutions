@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0500-keyboard-row) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0412-fizz-buzz](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
