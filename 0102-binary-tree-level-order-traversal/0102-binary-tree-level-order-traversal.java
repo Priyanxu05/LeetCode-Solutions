@@ -23,10 +23,11 @@ class Solution {
             int n=q.size();
             List<Integer > arr2=new ArrayList<>();
             for(int i=0;i<n;i++){
-
-            if(q.peek().left != null)q.offer(q.peek().left);
-            if(q.peek().right != null)q.offer(q.peek().right);
-            arr2.add(q.poll().val);
+            TreeNode no=q.poll();
+            arr2.add(no.val);
+            if(no.left != null)q.offer(no.left);
+            if(no.right != null)q.offer(no.right);
+            
         }
             arr.add(arr2);
         }
