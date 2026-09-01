@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0658-find-k-closest-elements](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -77,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -168,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
