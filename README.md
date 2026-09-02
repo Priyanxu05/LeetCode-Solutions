@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0412-fizz-buzz](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
