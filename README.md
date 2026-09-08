@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0658-find-k-closest-elements](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Tree
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Quicksort
 |  |
 | ------- |
