@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [1200-minimum-absolute-difference](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1200-minimum-absolute-difference](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
