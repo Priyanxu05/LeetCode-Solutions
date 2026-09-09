@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3870-count-commas-in-range](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
 |  |
 | ------- |
