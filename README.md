@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -292,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
