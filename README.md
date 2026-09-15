@@ -138,10 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/Priyanxu05/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 ## Hash Function
 |  |
 | ------- |
